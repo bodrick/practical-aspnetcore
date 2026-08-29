@@ -4,6 +4,6 @@
     <OutputType>Exe</OutputType>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="NSwag.AspNetCore" Version="13.2.3" />
+    <PackageReference Include="NSwag.AspNetCore" Version="13.10.9" />
   </ItemGroup>
 </Project>
